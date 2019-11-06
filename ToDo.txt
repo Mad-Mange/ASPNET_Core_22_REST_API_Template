@@ -1,0 +1,7 @@
+﻿
+
+#### Att lägga till  ####
+- IdentityServer4
+http://docs.identityserver.io/en/latest/
+
+Onsdag:
